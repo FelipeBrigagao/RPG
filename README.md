@@ -4,7 +4,7 @@
 
 Sobre:
 ===========================
-- Geral:
+-Geral:
 
 O projeto foi realizado com base em um tutorial disponibilizado no YouTube pelos canais Brackeys e Sebastian Lague.
 
